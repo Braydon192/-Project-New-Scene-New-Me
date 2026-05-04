@@ -3,15 +3,15 @@ import org.code.theater.*;
 public class TheaterRunner {
   public static void main(String[] args) {
 
-    // Create scene objects
+    // Create scene objects for past and present
     LastYear lastYear = new LastYear();
     ThisYear thisYear = new ThisYear();
 
-    // Call top level methods
+    // Draw each scene before playing
     lastYear.drawScene();
     thisYear.drawScene();
 
-    // Play scenes (in order of arguments)
+    // Play both scenes in order
     Theater.playScenes(lastYear, thisYear);
     
   }
