@@ -16,6 +16,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 Incorporate variety of media – Use at least four different types of Scene API methods across both scenes (examples: drawImage(), drawText(), drawRectangle(), drawEllipse(), playSound(), setTextStyle(), setFillColor(), etc.).
 - **Create a UML diagram** – Design a UML class diagram showing your Scene subclasses with their instance variables, constructors, and methods before you begin coding.
 - **Document your code** – Use multi-line comments to explain the purpose of each method (including preconditions and postconditions) and single-line comments to explain code segments.
+<img width="589" height="252" alt="Screenshot 2026-05-04 9 05 21 AM" src="https://github.com/user-attachments/assets/32e1b184-ed2b-4afd-a960-bac44de5ed28" />
 
 
 ## Description of 2025 recap
